@@ -1,3 +1,4 @@
+// UC5 completed using enhanced for loop
 public class HelloWorld5 {
     public static void main(String[] args) {
 
